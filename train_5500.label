@@ -2823,7 +2823,7 @@ HUM:ind Who is Mia Farrow 's mother ?
 DESC:manner How do you determine if a computer monitor has an SVGA adapter ?
 NUM:dist How far can a human eye see ?
 NUM:date What time of year has the most air travel ?
-DESC:def What does the term `` spaghetti western '' mean ?
+DESC:def What does the term " spaghetti western " mean ?
 NUM:date When was the G7 group of nations formed ?
 DESC:desc What are differences between 1980 and 1990 ?
 HUM:ind What baseball player was walked the most times ?
@@ -2837,16 +2837,16 @@ NUM:perc What percentage of all world tornados touch down in the US ?
 HUM:ind What labor leader was last seen in the parking lot of a Michigan restaurant ?
 NUM:date When did the Carolingian period begin ?
 DESC:desc What motto ended Merrie Melodies cartoons ?
-HUM:ind Who reports the weather on the `` Good Morning America '' television show ?
+HUM:ind Who reports the weather on the " Good Morning America " television show ?
 NUM:count How many emperors were there in the Roman Empire ?
-HUM:ind What was the name of `` The Muppets '' creator ?
+HUM:ind What was the name of " The Muppets " creator ?
 DESC:def What is Cabarnet Sauvignon ?
 DESC:def What is a virtual IP address ?
 ENTY:animal What 's the name of the tiger that advertises for Frosted Flakes cereal ?
-HUM:ind Who sent the brief message `` I came , I saw , I conquered '' ?
+HUM:ind Who sent the brief message " I came , I saw , I conquered " ?
 ENTY:color What color is Mr. Spock 's blood ?
 HUM:ind What U.S. Air Force general led the first bombing raid over Tokyo ?
-HUM:ind What U.S. vice-president said : `` Some newspapers dispose of their garbage by printing it '' ?
+HUM:ind What U.S. vice-president said : " Some newspapers dispose of their garbage by printing it " ?
 HUM:ind What was the name of the first Watergate special prosecutor , later fired by Nixon ?
 DESC:manner How do movie blues screens work ?
 DESC:manner How does the speed the magnet spins in a generator affect the output of the generator ?
@@ -2861,7 +2861,7 @@ HUM:gr Who are the nomadic hunting and gathering tribe of the Kalahari Desert in
 HUM:ind Who won a Pulitzer Prize for his novel The Caine Mutiny ?
 ENTY:techmeth What 's the best way to lose the flab under your chin and around your face ?
 LOC:other Where is your corpus callosum ?
-ENTY:cremat What Broadway musical featured the song , `` If I were a rich man ? ''
+ENTY:cremat What Broadway musical featured the song , " If I were a rich man ? "
 HUM:ind Who portrayed Sherlock Holmes in 14 films between 1939 and 1946 ?
 DESC:reason Why is the development of space so important ?
 DESC:desc What is the nursery rhyme Rock-a-by Baby about ?
