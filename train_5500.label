@@ -3005,7 +3005,7 @@ DESC:reason Why does the sun shine only a short time in Alaska ?
 ENTY:dismed What chemical in red wine is good for the heart and what exactly does it do to your body ?
 DESC:manner How does blood clot ?
 NUM:volsize How big is our galaxy in diameter ?
-ENTY:product What product `` doubles your pleasure , doubles your fun '' ?
+ENTY:product What product " doubles your pleasure , doubles your fun " ?
 NUM:date When is a woman most fertile ?
 HUM:ind What son of a 15-year-old Mexican girl and a half-Irish father became the world 's most famous Greek ?
 HUM:ind Who was the first man to return to space ?
@@ -3018,14 +3018,14 @@ HUM:ind Who shot Billy the Kid ?
 DESC:desc What is he doing now ?
 HUM:ind What Mormon leader was said to have had 27 wives ?
 ENTY:other What video format was an alternative to VHS ?
-DESC:desc Where did the term `` 69 '' come from ?
+DESC:desc Where did the term " 69 " come from ?
 ENTY:substance What is money made of ?
 LOC:other What 's the name of a hotel in Indianapolis ?
 NUM:count How many people in Tucson ?
 LOC:other Where is Melbourne ?
 HUM:ind With whom did Bush compare Saddam Hussein ?
 LOC:country What country was Mikhail Gorbachev the leader of ?
-NUM:weight What is the recommended weight of a 15 year-old male that is 5 , 6 ?
+NUM:weight What is the recommended weight of a 15 year-old male that is ५ , ६ ?
 HUM:ind What pillar of the Dutch Renaissance painted Aristotle Contemplating the Bust of Homer ?
 LOC:other What is the largest county in size in Massachusetts ?
 HUM:ind What is the name of the brilliant British economist behind its creation ?
@@ -3070,7 +3070,7 @@ ENTY:other What is the organizational structure of the New Delhi Indira Gandhi a
 ENTY:other At Christmas time , what is the traditional thing to do under the mistletoe ?
 HUM:ind What baseball great plugged Mr. Coffee ?
 ENTY:sport What international amateur sports spectacle was first telecast in 1956 ?
-DESC:desc What is the origin of the word `` amen '' ?
+DESC:desc What is the origin of the word " amen " ?
 HUM:ind Who 's baby was Sweet Pea on the Popeye cartoon ?
 LOC:other Where is Mile High Stadium ?
 ENTY:other What were Baffin , Frobisher and Franklin looking for ?
@@ -3093,7 +3093,7 @@ LOC:state What U.S. state has sagebrush as its state flower ?
 DESC:def What is the Bernoulli Principle ?
 HUM:ind What 's comic strip photographer Peter Parker 's secret identity ?
 DESC:desc What is difference between a poster and a print ?
-ENTY:sport In which sport is there a `` scrum '' ?
+ENTY:sport In which sport is there a " scrum " ?
 ENTY:techmeth What are the best ways to improve employee morale at low cost ?
 LOC:country What nationality is Pope John Paul II ?
 DESC:def What is false consciousness ?
