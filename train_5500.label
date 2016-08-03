@@ -3410,15 +3410,15 @@ NUM:money What is the price for tuberculosis drugs ?
 NUM:money What was the first minimum wage ?
 DESC:desc What is the difference between a college and a university ?
 ENTY:substance What substance did Joseph Priestley name for its ability to erase pencil marks ?
-DESC:desc What are the limits to `` self-defense ? ''
+DESC:desc What are the limits to " self-defense " ?
 DESC:manner How can I get my product licensed by the NBA ?
-ENTY:food What fast food is prepared with a `` secret blend of 11 herbs and spices ? ''
+ENTY:food What fast food is prepared with a " secret blend of 11 herbs and spices " ?
 DESC:desc What effect does a prism have on light ?
 NUM:count How many people lived in Nebraska in the mid 1900s ?
 DESC:def What is software piracy ?
 NUM:date What year was Janet Jackson 's first album released ?
 DESC:manner How do you calculate the change in enthalpy of a chemical reaction ?
-HUM:ind Name of heroine in `` Scruples '' ?
+HUM:ind Name of heroine in " Scruples " ?
 NUM:count How many movies has Drew Barrymore been in ?
 HUM:ind What TV character sired a horse named Thunder ?
 DESC:desc What are some children 's rights ?
@@ -3434,7 +3434,7 @@ HUM:ind Who invented the fax machine ?
 NUM:dist How wide is the Atlantic Ocean ?
 DESC:manner How is the element strontium purified ?
 ENTY:termeq What was the eighth day following the Nones in each month of the Roman calendar called ?
-HUM:ind Who wrote the poem that starts `` I love your lips when they 're wet with wine and red with a warm desire '' ?
+HUM:ind Who wrote the poem that starts " I love your lips when they 're wet with wine and red with a warm desire " ?
 HUM:ind What singer 's theme song was When the Moon Comes over the Mountain ?
 DESC:manner How did Peabody and Sherman travel through time ?
 HUM:desc Who was Santos-Dumont ?
@@ -3444,9 +3444,9 @@ NUM:count About how many soldiers died in World War II ?
 HUM:ind Who is Rocky 's and Bullwinkle 's ever-lost friend ?
 HUM:desc Who is Robin Williams ?
 HUM:ind Who thought he 'd never see a poem lovely as a tree ?
-HUM:ind Who created `` The Muppets '' ?
+HUM:ind Who created " The Muppets " ?
 DESC:manner How do you make dumplings ?
-LOC:other What celestial body has a diameter of 864 , 000 miles ?
+LOC:other What celestial body has a diameter of 864,000 miles ?
 ENTY:termeq The operating system that runs on IBM-compatible machines is called what ?
 HUM:gr What was the Ventura County police department that seized the county 's largest amount of cocaine ever ?
 ENTY:animal What is the name of the Family Circus 's dog ?
@@ -3455,7 +3455,7 @@ DESC:def What is the meaning of the name Kathryn ?
 HUM:ind Name one of the major gods of Hinduism .
 LOC:country What country borders Denmark to the south ?
 DESC:desc What should you do for an ankle sprain ?
-ENTY:other What dropped 1 , 313 feet in 1980 ?
+ENTY:other What dropped 1,313 feet in 1980 ?
 ENTY:dismed What is the name of the vaccine for chicken pox ?
 HUM:ind What two US biochemists won the Nobel Prize in medicine in 1992 ?
 HUM:gr What record company was formed by Herb Alpert and Jerry Moss ?
@@ -3463,11 +3463,11 @@ LOC:other Where do you find the answers for all these questions ?
 DESC:def What is thermal equilibrium ?
 ENTY:termeq What is a term for behavior , appearance , or expression that violates the accepted standards of sexual morality ?
 HUM:gr What fast-food magnate 's initials graced the left sleeve of the San Diego Padres ' baseball uniforms in 1984 ?
-DESC:desc What is the origin of the typing practice sentence `` Now is the time for all good men to come to the aid of their country '' ?
+DESC:desc What is the origin of the typing practice sentence " Now is the time for all good men to come to the aid of their country " ?
 NUM:count How many neurons are in the human brain ?
 ENTY:dismed What is a fear of reptiles ?
 ENTY:cremat What does Knight Ridder publish ?
-LOC:city What city is . KDGE Radio located in ?
+LOC:city What city is .KDGE Radio located in ?
 ENTY:other What can one see in Reims ?
 DESC:manner How is an executioner determined ?
 LOC:city What city was Bobby Kennedy assassinated in ?
@@ -3482,22 +3482,22 @@ NUM:period How long does a fly live ?
 ENTY:religion What two major world religions began in India ?
 NUM:weight How many pounds are there in a stone ?
 ENTY:dismed What kind of poisoning is known as plumbism ?
-ENTY:other What is the greatest source of `` white '' magic in the Marvel Universe ?
+ENTY:other What is the greatest source of " white " magic in the Marvel Universe ?
 DESC:manner How do I find if my relatives were on the Trail of Tears ?
 NUM:other What amount of folic acid should an expectant mother take daily ?
 DESC:manner How do you select wine ?
 HUM:ind Who was the king who signed the Magna Carta ?
 NUM:count How many miles is it from Frankfurt , Germany to Salzburg , Austria ?
-NUM:count How many chairs are shown in Vincent Van Gogh 's 188 work The Artist 's Room in Arles ?
+NUM:count How many chairs are shown in Vincent Van Gogh 's 1880 work The Artist 's Room in Arles ?
 ENTY:dismed What is a fear of stings ?
 ENTY:cremat Jude Law was in what movie ?
 LOC:state What state on the Gulf of Mexico has its lowest point five feet below sea level ?
 ENTY:veh What was the name of Robert Fulton 's most famous steamboat ?
-LOC:other Where can I find a case on Americans with Disabilities Act of 199 ?
+LOC:other Where can I find a case on Americans with Disabilities Act of 1990 ?
 HUM:ind Who is the leader of India ?
 HUM:ind Who is the prophet that is most connected to the Dead Sea ?
 NUM:perc What are the chances of pregnacy if the penis does not penetrate the vagina ?
-DESC:def What is infomatics ?
+DESC:def What is informatics ?
 DESC:reason What is the purpose of BIOS ?
 LOC:other Where is the Keck telescope ?
 ENTY:cremat What is the name of the kids ' show from Canadian Public TV with the singing pineapple ?
