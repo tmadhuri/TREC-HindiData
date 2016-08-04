@@ -3502,7 +3502,7 @@ DESC:reason What is the purpose of BIOS ?
 LOC:other Where is the Keck telescope ?
 ENTY:cremat What is the name of the kids ' show from Canadian Public TV with the singing pineapple ?
 LOC:other Where are the apartments in Saint John , New Brunswick ?
-HUM:ind Who wrote `` The Pit and the Pendulum '' ?
+HUM:ind Who wrote " The Pit and the Pendulum " ?
 LOC:country What country did the Mau Mau Uprising take place in ?
 LOC:other What are some good medical sites for information ?
 ENTY:other What does a resurrectionist steal ?
@@ -3517,7 +3517,7 @@ HUM:gr What manufacturers are there in Texas ?
 HUM:ind Who are the presidents of Mexico and Indonesia ?
 HUM:ind Who played Al Jolson in the Jolson Story ?
 DESC:def What is a pig in a poke ?
-LOC:other Where were the 196 Summer Olympics held ?
+LOC:other Where were the 1960 Summer Olympics held ?
 LOC:other Where is Los Vegas ?
 LOC:country Name the country which Honecker lived in .
 LOC:state What U.S. state are the Finger Lakes in ?
@@ -3540,14 +3540,14 @@ DESC:desc What was the importance of Magellan ?
 NUM:date When was the Brandenburg Gate in Berlin built ?
 DESC:manner What do I have to do to get good grades in school ?
 HUM:ind Whose husbands have included Conrad Hilton Jr. , and Michael Wilding ?
-ABBR:abb What does the number `` 5 '' stand for on FUBU clothing ?
+ABBR:abb What does the number " 5 " stand for on FUBU clothing ?
 HUM:ind Who is King in Alley Oop 's home of Moo ?
 ENTY:food What four tastes can a human distinguish ?
-HUM:gr What is `` the airline built for professional travelers '' ?
+HUM:gr What is " the airline built for professional travelers " ?
 ENTY:veh What two vessels fought the first sea battle between iron-covered ships ?
 NUM:count How much of the silver production is manufactured by independent silversmiths ?
 NUM:perc What percentage of the silver production is done by independent silversmiths ?
-DESC:desc What is the origin of the term `` buffalo wings '' that is used as a menu item in bars across the nation for chicken wings in a spicey sauce ?
+DESC:desc What is the origin of the term " buffalo wings " that is used as a menu item in bars across the nation for chicken wings in a spicey sauce ?
 NUM:date What date is Boxing Day ?
 NUM:count How many inches tall is Stuart Little at birth ?
 ENTY:cremat What 1953 film won Frank Sinatra a best supporting actor Oscar ?
@@ -3560,7 +3560,7 @@ ENTY:other What was George Washington afraid of ?
 NUM:date What century 's the setting for TV 's The Adventures of Robin Hood ?
 HUM:ind Who wrote the Bible ?
 ENTY:cremat What are the top 5 fiction books of all time ?
-DESC:def What are the `` Star Wars '' satellites ?
+DESC:def What are the " Star Wars " satellites ?
 HUM:desc Who is Henry Butler ?
 NUM:money What debts did Qintex group leave ?
 HUM:ind Which U.S. President is buried in Washington , D.C. ?
@@ -3572,15 +3572,15 @@ LOC:other Where did Ty Cobb grow up ?
 DESC:def What is a philanthropist ?
 DESC:def What is a portal ?
 ENTY:cremat What Tom Wolfe book is about the Mercury astronauts ?
-ENTY:food What cooking oil has `` corn goodness '' ?
+ENTY:food What cooking oil has " corn goodness " ?
 NUM:money What is the per-capita income of Colombia , South America ?
 NUM:count How many types of cheese are there in France ?
-NUM:count How many `` eyes '' does a coconut have ?
+NUM:count How many " eyes " does a coconut have ?
 NUM:count How many websites are there in the world ?
 ENTY:termeq What is the term that describes a word where only one usage has been recorded in all literature ?
 HUM:gr Who made the first airplane ?
 ENTY:techmeth What measures did Clinton take to avoid the draft ?
-ENTY:termeq What are `` darning needles '' and `` horse stingers '' better known as ?
+ENTY:termeq What are " darning needles " and " horse stingers " better known as ?
 NUM:count How many points is a disk in the center hole worth in Crokinole ?
 DESC:manner How do websites like Yahoo and Excite make money ?
 LOC:other What general direction does the journey in Around the World in 80 Days proceed in ?
