@@ -3726,7 +3726,7 @@ HUM:ind Who founded the first aerodynamics laboratory in 1912 ?
 NUM:money What is the fare cost for the round trip between New York and London on Concorde ?
 DESC:def What is a bone marrow transplant meant for ?
 DESC:def What does the name Calder mean ?
-HUM:ind Who said `` Give me liberty or give me death '' ?
+HUM:ind Who said " Give me liberty or give me death " ?
 LOC:other What is the location of McCarren Airport ?
 ABBR:exp What does the abbreviation OAS stand for ?
 ENTY:termeq What is the nickname of the Cleveland Indians ?
@@ -3735,7 +3735,7 @@ DESC:reason What makes Black Hills , South Dakota a tourist attraction ?
 ENTY:animal What was the name of Baretta 's cockatoo ?
 NUM:money By how much will the California state gas tax rise by the year 2000 ?
 HUM:gr What 's Japan 's largest car manufacturer ?
-HUM:ind Name of the powerful white trader in Conrad 's `` Heart of Darkness '' ?
+HUM:ind Name of the powerful white trader in Conrad 's " Heart of Darkness " ?
 NUM:dist How long is the border between Canada and the 48 conterminous states ?
 ENTY:termeq What do you call a date that contains sequencing numbers , like 9-8-98 ?
 ENTY:color What color is the cross on Switzerland 's flag ?
@@ -3746,7 +3746,7 @@ LOC:other Where was chop suey invented ?
 DESC:manner How can I gain access to a spy satelite ?
 DESC:reason What is Archimedes famous for ?
 LOC:other Where does dew come from ?
-NUM:period How old was Lucille Ball when the show `` I Love Lucy '' premiered ?
+NUM:period How old was Lucille Ball when the show " I Love Lucy " premiered ?
 ENTY:food What 's the most delicate-tasting member of the onion family ?
 LOC:other What landmark Italian restaurant can be found at 239 West 48th Street , New York City ?
 ENTY:termeq What do you call a book of quotes ?
@@ -3770,8 +3770,8 @@ LOC:other Where did the world come from ?
 DESC:def What does verdandi mean ?
 ENTY:animal What animal dined on bread and oysters with a carpenter ?
 LOC:other What island group is Guadalcanal a part of ?
-HUM:ind Who declared : `` I think I 'll go out and milk the elk '' ?
-DESC:desc What is the origin of `` barbeque '' ?
+HUM:ind Who declared : " I think I 'll go out and milk the elk " ?
+DESC:desc What is the origin of " barbeque " ?
 DESC:manner How do you clean badly tarnished brass ?
 NUM:count How many e-commerce companies are started every day ?
 DESC:def How can you define time ?
@@ -3781,14 +3781,14 @@ ABBR:exp What does HIV stand for ?
 ENTY:termeq What is Shirley MacLaine known as ?
 DESC:manner How is plastic made ?
 ENTY:techmeth What are the 7 principles of learning from the Institute for Research on Learning , IRL ?
-ENTY:cremat What book was F. Scott Fitzgerald working on when he died in Hollywood in 194 ?
+ENTY:cremat What book was F. Scott Fitzgerald working on when he died in Hollywood in 1940 ?
 DESC:manner How do ants have sex ?
 HUM:ind Which former Ku Klux Klan member won an elected office in the U.S. ?
 NUM:dist What is the length of border between the Ukraine and Russia ?
 ABBR:exp What is HDLC ?
 ENTY:food What joins white wine to put the spritz in a Spritzer ?
 DESC:def What is a nematode ?
-DESC:def What is the meaning of `` CPR '' ?
+DESC:def What is the meaning of " CPR " ?
 ENTY:color What color are seven of every 10 houses in the U.S. ?
 ENTY:other What does a phobophobe fear ?
 DESC:def What is capitalism according to Max Weber ?
