@@ -3800,9 +3800,9 @@ LOC:city What city does Orly Airport serve ?
 LOC:other Where did Woodstock take place ?
 ENTY:sport What 's the most popular form of gambling with women in Las Vegas ?
 HUM:title What task does the Bouvier breed of dog perform ?
-NUM:period What is the average time to kiss somene ?
+NUM:period What is the average time to kiss someone ?
 LOC:country What are the top five oil-producing countries in the world ?
-HUM:ind What New Orleans D.A. claimed : `` My staff and I solved the assassination weeks ago '' ?
+HUM:ind What New Orleans D.A. claimed : " My staff and I solved the assassination weeks ago " ?
 LOC:other Where can one find Rider College ?
 NUM:count How much caffeine is in a 16 oz cup of coffee ?
 DESC:reason Why do oceans contain salt water instead of fresh water ?
@@ -3817,7 +3817,7 @@ DESC:manner How do they type Chinese characters on a keyboard ?
 ENTY:animal What animal causes the biggest threat to humans ?
 ENTY:dismed What is a fear of ruin ?
 LOC:country What countries have the most auto thefts ?
-HUM:ind Who makes chicken `` finger lickin '' good ?
+HUM:ind Who makes chicken " finger lickin " good ?
 HUM:ind What director portrayed the commandant of the POW camp in 1953 's Stalag 17 ?
 HUM:ind What are the names of Jacques Cousteau 's two sons ?
 ENTY:cremat What British TV series inspired All in the Family ?
@@ -3825,8 +3825,8 @@ DESC:def What does the word terrorism mean ?
 HUM:ind Who accompanied Space Ghost on his missions ?
 DESC:def What does N est-ce pas mean ?
 ENTY:word Name the 5 words that use all of the letters in the alphabet , except Q , with no repeats .
-DESC:desc What is the origin of the word `` tampon '' ?
-HUM:ind What World War II leader declared : `` The blow has been struck '' ?
+DESC:desc What is the origin of the word " tampon " ?
+HUM:ind What World War II leader declared : " The blow has been struck " ?
 DESC:manner How can I get a CCT diagram ?
 HUM:ind Who was Israel 's first prime minister ?
 ENTY:color What is the most popular sports car color ?
@@ -3841,13 +3841,13 @@ HUM:title What occupation has the highest divorce rate ?
 ENTY:food What drink contains as many types of rum as possible ?
 LOC:other Where is the Virtual Desk Reference ?
 NUM:other How loud is thunder ?
-HUM:ind What California governor said : `` Inaction may be the highest form of action '' ?
+HUM:ind What California governor said : " Inaction may be the highest form of action " ?
 DESC:def What is an ecological niche ?
 HUM:desc Who is Desmond Tutu ?
 HUM:ind Who was the first person to study the stars ?
 DESC:desc Where did the term fireplug come from ?
 DESC:desc What facial feature did Walt Disney sport that none of Disney 's employees is allowed to ?
-HUM:ind Who is the author of the book , `` The Iron Lady : A Biography of Margaret Thatcher '' ?
+HUM:ind Who is the author of the book , " The Iron Lady : A Biography of Margaret Thatcher " ?
 HUM:gr What are the top 10 colleges in the United States in the field of engineering ?
 NUM:money How much would a black-and-white 1-cent stamp be worth , Thomas Jefferson on it ?
 NUM:perc What is the probability that at least 2 out of 25 people will have the same birthday ?
@@ -3856,13 +3856,13 @@ DESC:manner How do vending machines tell if your dollar is a 1 or a 5 ?
 NUM:count How many people did the United Nations commit to help restore order and distribute humanitarian relief in Somalia in September 1992 ?
 NUM:count How many elephants are left on earth ?
 ENTY:substance What is a softball made of ?
-ENTY:other What `` little red car '' is mentioned in pop singer Prince 's hit song ?
-HUM:ind Who did Doris Day mean when she said : `` I call him Ernie because he 's certainly no Rock '' ?
-ENTY:animal What kind of species is the monster in the film `` Jaws '' ?
+ENTY:other What " little red car " is mentioned in pop singer Prince 's hit song ?
+HUM:ind Who did Doris Day mean when she said : " I call him Ernie because he 's certainly no Rock " ?
+ENTY:animal What kind of species is the monster in the film " Jaws " ?
 NUM:date When was the first practical commercial typewriter marketed ?
 DESC:def What is a drought ?
 DESC:desc What are the benefits of home school ?
-LOC:country What Scandinavian country covers 173 , 732 square miles ?
+LOC:country What Scandinavian country covers 173,732 square miles ?
 ENTY:cremat What is the best-selling book of all time ?
 DESC:desc What do Hank Aaron , Jimmy Stewart , and Howard K. Smith have in common ?
 ENTY:word What are the first six words of Dickens 's A Tale of Two Cities ?
@@ -3873,10 +3873,10 @@ HUM:ind Who is the owner of CNN ?
 NUM:period How long was the OJ Simpson trial ?
 LOC:country What country lies directly south of Detroit ?
 LOC:other Where did surfing originate ?
-DESC:reason Why was Henry Ford 's first automobile calleda Model T & his second type of automobile , introduced in 1928 , called a Model A ?
+DESC:reason Why was Henry Ford 's first automobile called a Model T & his second type of automobile , introduced in 1928 , called a Model A ?
 DESC:manner How do companies cut paper so thin ?
 LOC:mount What is the tallest mountain ?
-DESC:desc What is `` the computer for the rest of us '' ?
+DESC:desc What is " the computer for the rest of us " ?
 DESC:desc What nuclear process takes place in an H-bomb ?
 NUM:count What 's the maximum number of clubs a golfer may use in a round ?
 ENTY:other What card suit originally represented the peasant class ?
@@ -3885,7 +3885,7 @@ ENTY:product What does the Peugeot company manufacture ?
 NUM:count How many different countries export coffee ?
 ENTY:dismed What is a fear of everything ?
 NUM:count How many continents are there ?
-ENTY:food Which mayonnaise refers to itself as `` real '' mayonnaise ?
+ENTY:food Which mayonnaise refers to itself as " real " mayonnaise ?
 DESC:def What is office automation ?
 ENTY:instru What instrument does Benny Carter play ?
 HUM:ind What knighted actor narrates TV 's The World at War ?
@@ -3897,7 +3897,7 @@ NUM:date When did the Chernobyl nuclear accident occur ?
 LOC:other Where did the Maya people live ?
 ENTY:other What do opposite faces of a die always add up to ?
 HUM:ind What was the name of Randy Craft 's lawyer ?
-DESC:def What is `` cat scratch fever '' ?
+DESC:def What is " cat scratch fever " ?
 LOC:state Kosovo is a province of what country ?
 LOC:state What New England state covers 5.9 square miles ?
 ABBR:abb What is the abbreviation for Original Equipment Manufacturer ?
