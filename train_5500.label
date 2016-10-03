@@ -3999,9 +3999,9 @@ HUM:ind What is the name of the American who was captured when his plane went do
 DESC:desc Where does the expression " cloud nine " come from ?
 DESC:def What is lung cancer ?
 HUM:gr What school does Tom attend in Tom Brown 's School Days ?
-HUM:ind What basketball player is credited with 23 , 924 rebounds ?
+HUM:ind What basketball player is credited with 23,924 rebounds ?
 NUM:volsize How big is a normal size penis for a 15-year-old ?
-ENTY:termeq What does Playboy title its `` continuing dialog on contemporary issues between Playboy and its readers '' ?
+ENTY:termeq What does Playboy title its " continuing dialog on contemporary issues between Playboy and its readers " ?
 NUM:count How many American soldiers remain unaccounted from the Vietnam war ?
 LOC:other Where can I find a tape or book to help me say , write and understand Japanese ?
 NUM:count How many cables support the main span of the Golden Gate Bridge ?
@@ -4015,25 +4015,25 @@ LOC:other What room did W.C. Fields keep his library in ?
 DESC:reason What causes an earthquake ?
 HUM:ind What Batman character tools around on a Batcycle ?
 ENTY:body What are the main blood vessels ?
-DESC:def What does `` saute '' mean ?
+DESC:def What does " saute " mean ?
 LOC:other Where can I find the schematics to the windshield wiper mechanism ?
 ENTY:animal What type is a snail ?
 HUM:ind Who was Sherlock Holmes 's archenemy ?
-LOC:other Where is `` Global Schoolhouse '' ?
+LOC:other Where is " Global Schoolhouse " ?
 NUM:count How many years of schooling after highschool does it take to become a neurosurgeon ?
 ENTY:food What are the top vegetable crops in the world ?
 LOC:other What volcano showers ash on Sicily ?
 LOC:other Where are the U.S. headquarters for Procter & Gamble ?
 DESC:reason Why did the Aztecs first think the Spanish were Gods ?
-DESC:desc What are the rules to `` snow golf '' ?
+DESC:desc What are the rules to " snow golf " ?
 ENTY:termeq What does Warner Bros. call a flightless cuckoo ?
 NUM:date When did Mount St. Helen last have a major eruption ?
-ENTY:termeq How do you say `` eat the day '' in Latin ?
+ENTY:termeq How do you say " eat the day " in Latin ?
 ENTY:substance What are super balls made of ?
 HUM:ind What 's the name of Tom Sawyer 's aunt with whom he lives ?
 ENTY:cremat What is the fastest-growing comic strip of all time ?
 HUM:ind Which member of the Micronauts spent 1 years traveling the Microverse in the Marvel comics ?
-HUM:ind What doctor claimed in a 1946 book : `` There is no such thing as a bad boy '' ?
+HUM:ind What doctor claimed in a 1946 book : " There is no such thing as a bad boy " ?
 NUM:period How long has L.L. Cool J. been married ?
 NUM:weight How much did a knight 's armor weigh ?
 HUM:ind What comedian created a punch-drunk pugilist named Cauliflower McPugg ?
@@ -4042,7 +4042,7 @@ NUM:dist How tall is Prince Charles ?
 NUM:weight What is the weight of air ?
 ENTY:dismed What is a fear of children ?
 DESC:def What is ouzo ?
-ENTY:sport What race is 1 , 137 miles long ?
+ENTY:sport What race is 1,137 miles long ?
 LOC:city What is the capital of Uruguay ?
 ABBR:exp What does the T.S. stand for in T.S. Eliot 's name ?
 NUM:dist How long is the world 's largest ship , in meters ?
@@ -4052,13 +4052,13 @@ HUM:desc Who is Charles Lindbergh ?
 NUM:dist How tall is the replica of the Matterhorn at Disneyland ?
 LOC:other What are the largest deserts in the world ?
 LOC:other Where is Qatar ?
-DESC:reason Why are peanut butter cookies topped with crisscrosses ?
+DESC:reason Why are peanut butter cookies topped with criss-crosses ?
 LOC:state What is the richest state in the U.S. ?
 HUM:ind Who is the prime minister in Norway ?
 DESC:def What is a urologist ?
-HUM:ind What actress starred in `` The Lion in Winter '' ?
+HUM:ind What actress starred in " The Lion in Winter " ?
 ENTY:other What 's bottled in jeroboams ?
-HUM:ind Who won the rugby world cup in ?
+HUM:ind Who won the rugby world cup ?
 HUM:title What is Nicholas Cage 's profession ?
 NUM:count How many times was pitcher , Warren Spahn , a 20-game winner in his 21 major league seasons ?
 NUM:count How many pins are used in skittles ?
@@ -4081,9 +4081,9 @@ NUM:count How many types of lemurs are there ?
 ENTY:plant What are some colorful flowers that will bloom in the fall in New England ?
 ENTY:other What 's the second-most-used murder weapon in the U.S. ?
 HUM:gr What businesses or agencies would do an employment verification ?
-HUM:ind What famous coach said `` if you can 't beat 'em in the alley , you can 't beat 'em on the ice '' ?
-HUM:ind What onetime member of Ronald Reagan 's cabinet called federal policy toward Indians `` an example of the failure of socialism '' ?
-NUM:count How many claws has a lobster called a pistol lost ?
+HUM:ind What famous coach said " if you can 't beat 'em in the alley , you can 't beat 'em on the ice " ?
+HUM:ind What onetime member of Ronald Reagan 's cabinet called federal policy toward Indians " an example of the failure of socialism " ?
+NUM:count How many claws has a lobster called a Pistol lost ?
 HUM:ind Who was Darth Vader 's son ?
 ENTY:lang What are the four most widely-used languages in North America ?
 ENTY:event What war was fought by the Spanish as far as the Philippines ?
@@ -4099,7 +4099,7 @@ LOC:other Where can I find free piano scores for popular music ?
 NUM:date When did the American Civil War end ?
 LOC:country What country is the largest diamond producer ?
 NUM:period How long does it take the moon to revolve around the Earth ?
-ENTY:food What beer is ` rockin ' America ? ''
+ENTY:food What beer is ' rockin ' America ?
 ENTY:dismed What is a fear of women ?
 HUM:ind Who protects DC Comics ' realm of dreams ?
 ENTY:termeq What are dinosaur droppings called ?
@@ -4116,14 +4116,14 @@ HUM:ind Who was President Cleveland 's wife ?
 ENTY:animal What class of animals makes up more than two-thirds of known species ?
 ENTY:animal What was the name of Sergeant Preston of the Yukon 's lead dog ?
 ENTY:cremat What film featured a snarly character named Kid Shelleen ?
-HUM:gr What company named one of its pens `` The Banana '' ?
+HUM:gr What company named one of its pens " The Banana " ?
 LOC:city What 's the capital of Monaco ?
 NUM:weight What do Englishmen weigh themselves in ?
 NUM:volsize How big is the Electoral College ?
 ENTY:other What is it that walks on four legs , then on two legs , then on three ?
 ENTY:event What is the name of the 1919 occurrence in which British troops killed over 3 unarmed Indian protestors ?
 HUM:ind Who invented the Moog Synthesizer ?
-HUM:ind Who makes the `` Die Hard '' car battery ?
+HUM:ind Who makes the " Die Hard " car battery ?
 NUM:period How long does it take to travel from Tokyo to Niigata ?
 LOC:state What state is the Filenes store located in ?
 DESC:manner How does a bill become law ?
@@ -4134,21 +4134,21 @@ ENTY:sport What star-faring race brought about the Inhumans on Marvel 's Earth ?
 DESC:manner How do you buy stocks ?
 DESC:def What does appropriates money mean ?
 HUM:ind What is the name of Dolly Parton 's rarely seen husband ?
-LOC:other Where is the official `` zero '' of the sea level ?
-HUM:ind Whose old London come-on was : `` Buy my sweet lavender '' ?
+LOC:other Where is the official " zero " of the sea level ?
+HUM:ind Whose old London come-on was : " Buy my sweet lavender " ?
 DESC:manner How did former WWF wrestler Rick Rude die ?
 HUM:ind Who wrote the lyrics to Porgy and Bess ?
-DESC:def What is a `` False Moon '' ?
+DESC:def What is a " False Moon " ?
 ENTY:other What 1976 Deep Throat clone provides the leading lady with a second larynx ?
 ENTY:other What line of luggage is named after a famous American flier ?
 ENTY:word What is a word whose letters can be rearranged to form a different word ?
 NUM:ord What chapter of Gone with the Wind has Rhett Butler leaving Scarlett O 'Hara ?
 NUM:count How many American actors were nominated for the best actor Oscar for 1983 ?
 NUM:date When did Lucelly Garcia , a former ambassador of Columbia to Honduras , die ?
-ENTY:animal In Hemingway 's `` Old Man and the Sea , '' what kind of fish does the old man catch ?
+ENTY:animal In Hemingway 's " Old Man and the Sea " , what kind of fish does the old man catch ?
 NUM:period How long was the longest sneezing attack ?
 DESC:manner How can I get rich quick ?
-DESC:manner How is the word ` qigong ' pronounced ?
+DESC:manner How is the word ' qigong ' pronounced ?
 ENTY:cremat What program do I need to run a .tbk file ?
 LOC:other What is the seafaring name for the southern tip of South America ?
 HUM:ind What two New York Yankee pitchers swapped wives and families ?
@@ -4162,7 +4162,7 @@ NUM:count How many queen bees reign in a hive ?
 ENTY:sport What sport features slotbacks , tailbacks , and touchbacks ?
 ENTY:food What meat complemented sweet potatoes and peas in the first TV dinner ?
 ABBR:exp What is RAM in the computer ?
-DESC:def What is a `` repeating voter '' ?
+DESC:def What is a " repeating voter " ?
 DESC:def What are dingoes ?
 LOC:other Where can I find a world atlas map online at no charge ?
 ENTY:cremat What Leoncavallo opera features a prologue by a clown ?
@@ -4184,13 +4184,13 @@ NUM:date When was Christ born ?
 LOC:other Where do quality drinks begin ?
 ENTY:color In order from the top , the four stripes on a can of Pepsi are what colors ?
 ENTY:substance What kind of substance is dextropropoxyphen napsylate ?
-HUM:ind Who is the French literary charcter who is chiefly famous for his enormous nose ?
+HUM:ind Who is the French literary character who is chiefly famous for his enormous nose ?
 ENTY:other What were first used by John L. Sullivan and James J. Corbett in 1892 ?
 LOC:country What country surrounds San Marino , the world 's smallest Republic ?
 HUM:ind Who killed Martin Luther King ?
 HUM:ind Who owns the rights on a TV program ?
 DESC:reason What did Cool Hand Luke go to jail for ?
-DESC:desc What was the V-8 Juice slogan : `` the tastebud '' ?
+DESC:desc What was the V-8 Juice slogan : " the tastebud " ?
 ENTY:cremat What was Mae West 's last film ?
 ENTY:letter What letter does Gorbachev 's middle name start with ?
 HUM:ind Who invented Astroturf ?
