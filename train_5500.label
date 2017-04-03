@@ -59,7 +59,7 @@ ENTY:termeq What 's the term for a young fox ?
 LOC:state What U.S. state lived under six flags ?
 DESC:def What is the Kashmir issue ?
 LOC:other Where is the Loop ?
-DESC:def What does " extended definition  mean and how would one write a paper on it ?
+DESC:def What does " extended definition " mean and how would one write a paper on it ?
 LOC:country What country 's capital is Tirana ?
 DESC:def What is titanium ?
 HUM:ind Who do Herb and Tootsie live next door to ?
@@ -281,7 +281,7 @@ NUM:date When did Spielberg direct " Jaws " ?
 NUM:volsize What is the size of the largest akita ?
 ENTY:animal What animal has the biggest eyes ?
 LOC:city What is California 's capital ?
-HUM:ind Who was the author of the book about computer hackers called `` The Cuckoo 's Egg : Tracking a Spy Through the Maze of Computer Espionage '' ?
+HUM:ind Who was the author of the book about computer hackers called " The Cuckoo 's Egg : Tracking a Spy Through the Maze of Computer Espionage " ?
 HUM:ind Who was the founding member of the Pink Floyd band ?
 LOC:country What European country is home to the beer-producing city of Budweis ?
 DESC:manner How do I find the balance of my social security account ?
@@ -407,7 +407,7 @@ ENTY:techmeth What golfing accessory was patented by George Grant on December 12
 ENTY:other What are the different types of plastic ?
 DESC:manner How is it correct to say ' qigong ' ?
 LOC:mount What was the highest mountain on earth before Mount Everest was discovered ?
-LOC:other Where was the Ligurian Republic , 1797-185 ?
+LOC:other Where was the Ligurian Republic , 1797-1850 ?
 LOC:country What country 's people are the top television watchers ?
 NUM:date When was the women 's suffrage amendment ratified ?
 HUM:gr What Polynesian people inhabit New Zealand ?
@@ -469,7 +469,7 @@ HUM:desc Who is the " Queen Mother " ?
 ENTY:lang What 's the most commonly-spoken language in Belgium ?
 HUM:ind Who has more DNA - a man or a woman ?
 DESC:def What are Maid-Rites ?
-ENTY:cremat What children 's tale contains the line : `` Come , Cinderslut , and hold this skein of wool for me '' ?
+ENTY:cremat What children 's tale contains the line : " Come , Cinderslut , and hold this skein of wool for me " ?
 HUM:gr What level of government or governmental agency is responsible for dealing with racism ?
 NUM:count How many referees work a soccer game ?
 ENTY:food What cocktail do you concoct with whisky and sweet vermouth ?
@@ -4208,7 +4208,7 @@ ENTY:veh What was the name of the flight that Fawaz Younis hijacked ?
 HUM:ind What former African leader held his country 's boxing title for nine years ?
 DESC:def What is a wet dream ?
 LOC:other What California bridge was Don Brown the first to cross , on May 27 , 1937 ?
-HUM:gr What camera company said , `` If you haven 't got the time , we 've got the camera ? ''
+HUM:gr What camera company said , " If you haven 't got the time , we 've got the camera " ?
 DESC:desc What happened to Pepsi Clear ?
 NUM:money How much does one ton of cement cost ?
 DESC:def What is a Mexican hairless ?
@@ -4228,9 +4228,9 @@ NUM:date In what year was the cannon invented ?
 NUM:count How many languages does the Pope speak ?
 LOC:other What bay divides Maryland 's Eastern and Western Shores ?
 HUM:ind What is the real name of the singer , Madonna ?
-HUM:ind What Frenchman claimed the following ? If God did not exist , it would be necessary to invent him . ''
+HUM:ind What Frenchman claimed the following : " If God did not exist , it would be necessary to invent him " ?
 ENTY:color What color were Ernest Hemingway 's eyes ?
-DESC:desc What is the origin of the expression `` four-letter word '' ?
+DESC:desc What is the origin of the expression " four-letter word " ?
 HUM:ind Who was the first woman in space ?
 ENTY:animal What is the only animal that can turn its stomach inside out ?
 HUM:gr What professional sports league originated the college draft ?
@@ -4251,10 +4251,10 @@ ABBR:exp What is SAP ?
 ENTY:other What layer of the atmosphere contains most of the ozone layer ?
 NUM:code What is the airport code for Los Angeles International ?
 DESC:reason What was the claim to fame of Explorer I , launched February 1 , 1958 ?
-DESC:reason In the song `` Yankee Doodle , '' why did Yankee Doodle stick a feather in his cap and call it macaroni ?
+DESC:reason In the song " Yankee Doodle " , why did Yankee Doodle stick a feather in his cap and call it macaroni ?
 ABBR:exp What do the letters CE stand for on so many products , particularly electrical , purchased now ?
 LOC:other Where did the real St. Nicholas live ?
-HUM:gr Who manufactures the software , `` PhotoShop '' ?
+HUM:gr Who manufactures the software , " PhotoShop " ?
 NUM:count How many eyes does a bat have ?
 ENTY:termeq How do you say 2 in Latin ?
 ENTY:sport What was Dwight Eisenhower 's favorite card game ?
@@ -4270,7 +4270,7 @@ DESC:manner How does a chick breathe inside an egg ?
 LOC:other What is Mark McGwire 's e-mail address ?
 NUM:count How many maids were milking ?
 LOC:city The Kentucky Horse Park is located near what city ?
-ENTY:symbol What is the celtic symbol for `` life '' ?
+ENTY:symbol What is the celtic symbol for " life " ?
 ENTY:food What kind of fruit is a Yellow Transparent ?
 ENTY:cremat What song put James Taylor in the limelight ?
 ENTY:food What drink is formed of tequila , orange juice and galliano ?
@@ -4280,7 +4280,7 @@ DESC:manner How do you dunk ?
 LOC:other Where is the massive North Korean nuclear complex located ?
 DESC:manner How do plants make food ?
 LOC:other Where is Microsoft 's corporate headquarters located ?
-DESC:manner How did the Hohenzollerns build their power around 17 ?
+DESC:manner How did the Hohenzollerns build their power ?
 NUM:date When was China 's first nuclear test ?
 ENTY:animal What is the name given to a group of geese ?
 DESC:reason Why was Washington , DC originally called District of Columbia ?
@@ -4304,21 +4304,21 @@ HUM:ind Who starred with Charlie Chaplin in Modern Times and The Great Dictator 
 NUM:code What seven digits follow the area code in the number for long distance information ?
 HUM:ind What Catch-22 character is elected mayor of half a dozen Italian cities ?
 HUM:ind Whom does Uncle Duke 's girl friend , Honey , room with ?
-HUM:ind When called upon to surrender , what American general replied , `` Sir , I have not yet begun to fight . '' ?
+HUM:ind When called upon to surrender , what American general replied , " Sir , I have not yet begun to fight . " ?
 NUM:date When was the bar-code invented ?
 ENTY:other What has to be produced in a writ of habeas corpus ?
 HUM:gr What team did Babe Ruth play his first major league game for ?
 ENTY:other What class is categorized as the bourgeoisie ?
 HUM:ind What relative of Leo Tolstoy translated War and Peace eight times ?
-DESC:manner How does the Nintendo `` Zapper '' work ?
+DESC:manner How does the Nintendo " Zapper " work ?
 NUM:count How many cards is each player dealt in Contract Bridge ?
 HUM:ind Who was the second person ever to wear Iron Man 's armor ?
 DESC:def What is InterLata Internet service ?
 HUM:ind Who is the director and editor of the movie Big starring Tom Hanks ?
-DESC:def What is the `` fourth dimension '' ?
+DESC:def What is the " fourth dimension " ?
 LOC:other What is the Homelite Inc. home page ?
 NUM:period How old was Stevie Wonder when he signed with Motown Records ?
-DESC:def What is `` alternative '' anymore ?
+DESC:def What is " alternative " anymore ?
 DESC:reason Why do they call a hamburger a hamburger when there is no ham ?
 HUM:ind Who won two gold medals in skiing in the Olympic Games in Calgary ?
 NUM:date What year was the Avery Dennison company founded ?
@@ -4359,24 +4359,24 @@ HUM:ind What famous communist leader died in Mexico City ?
 ENTY:other What was John Steinbeck 's travelling companion Charley ?
 LOC:city What are the capital cities of the two large countries that occupy the Iberian peninsula in Europe ?
 NUM:count How many mines can still be found in the Falklands after the war ended ?
-DESC:manner How can I get in touch with Michael Moore of `` Roger & Me '' ?
-DESC:manner How is ` qigong ' properly pronounced ?
+DESC:manner How can I get in touch with Michael Moore of " Roger & Me " ?
+DESC:manner How is ' qigong ' properly pronounced ?
 NUM:count How many gallons of water go over Niagra Falls every second ?
 ENTY:other What turns blue litmus paper red ?
-HUM:ind Who was the first woman to run the mile in less than 4 36893 minutes ?
+HUM:ind Who was the first woman to run the mile in less than 4.36893 minutes ?
 NUM:count How many copies of an album must be sold for it to be a gold album ?
-ENTY:food What is `` the soft drink for adults '' ?
-ENTY:food What is the only vegetable that starts with `` z '' ?
+ENTY:food What is " the soft drink for adults " ?
+ENTY:food What is the only vegetable that starts with " z " ?
 ENTY:dismed What is a fear of machinery ?
 HUM:ind Who awarded The Flying Fickle Finger of Fate ?
-LOC:city In Sinclair Lewis ' `` Main Street , '' what was the name of the typical American town ?
+LOC:city In Sinclair Lewis ' " Main Street " , what was the name of the typical American town ?
 ENTY:sport What hide-and-seek game is played around a tin can ?
 LOC:city What is the largest city in Texas ?
 HUM:ind What future deer hunter portrayed Annie Hall 's neurotic brother , Duane ?
 ENTY:food What drink is the best thirst-quencher ?
 LOC:other Where can I get a map of Prussia on the Internet ?
 ENTY:event What was the longest war in U.S. history ?
-DESC:def What is a `` node '' in computer terms ?
+DESC:def What is a " node " in computer terms ?
 LOC:country What are the five richest countries in the world ?
 LOC:other Where is McCarren Airport ?
 HUM:ind What are the top boy names in the U.S. ?
